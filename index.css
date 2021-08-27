@@ -1,3 +1,15 @@
 body{
     background-color:powderblue;
 }
+
+h1{
+    color: #b2bec3;
+}
+
+.clicked{
+    color: #7f8c8d;
+}
+
+.btn{
+    cursor: pointer;
+}
